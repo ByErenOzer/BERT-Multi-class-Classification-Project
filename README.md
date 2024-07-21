@@ -76,7 +76,8 @@ After training, the script evaluates the model and generates a classification re
 
 ![Uygulama Ekran Görüntüsü](https://github.com/ByErenOzer/BERT-Multi-class-Classification-Project/blob/main/classification%20report.png)
 
-  
+![Uygulama Ekran Görüntüsü](https://github.com/ByErenOzer/BERT-Multi-class-Classification-Project/blob/main/confusion%20matrix.png)
+
 ## Acknowledgements
 
 Hugging Face for providing the Transformers library.
