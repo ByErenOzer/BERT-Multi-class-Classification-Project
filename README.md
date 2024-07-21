@@ -78,6 +78,7 @@ After training, the script evaluates the model and generates a classification re
 
 <img src="https://github.com/ByErenOzer/BERT-Multi-class-Classification-Project/blob/main/confusion%20matrix.png" alt="Uygulama Ekran Görüntüsü" width="500"/>
 
+<img src="https://github.com/ByErenOzer/BERT-Multi-class-Classification-Project/blob/main/result.png" alt="Uygulama Ekran Görüntüsü" width="500"/>
 
 ## Acknowledgements
 
