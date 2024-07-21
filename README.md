@@ -1,7 +1,7 @@
 
 # BERT Multi-class Classification Project
 
-This project aims to fine-tune a BERT model for multi-class text classification, specifically for sentiment analysis in the Turkish language. It includes data preprocessing, model training, evaluation, and result visualization. The project is designed for data scientists and NLP enthusiasts who are interested in applying transformer models to Turkish text data.
+This project aims to fine-tune a BERT model for multi-class text classification, specifically for sentiment analysis in the Turkish language. It includes data preprocessing, model training, evaluation, and result visualization. In this project, sentiment analysis (positive, negative, neutral) was performed using a Turkish Twitter dataset. The project is designed for data scientists and NLP enthusiasts who are interested in applying transformer models to Turkish text data.
 
 
 
