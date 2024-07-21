@@ -74,7 +74,7 @@ Key arguments for the script:
 ## Ekran Görüntüleri
 After training, the script evaluates the model and generates a classification report, confusion matrix, and visualizations.
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](https://github.com/ByErenOzer/BERT-Multi-class-Classification-Project/blob/main/classification%20report.png)
 
   
 ## Acknowledgements
